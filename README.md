@@ -37,7 +37,3 @@ Visualizations also help to understand the model's decision boundaries.
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-## ✨ A small preview
-
-![Iris Dataset Sample Plot]((https://huggingface.co/datasets/scikit-learn/iris))
